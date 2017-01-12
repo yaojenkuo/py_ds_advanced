@@ -13,6 +13,8 @@
 ### 課程大綱
 
 - 建立你的開發環境
+- Numpy array 複習（Recap on numpy array）
+- Pandas data frame 複習（Recap on pandas data frame）
 - 快速實作（Quick start）
 - 預處理（Preprocessing）
 - 降維（Dimensionality reduction）
