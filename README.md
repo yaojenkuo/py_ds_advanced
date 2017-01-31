@@ -13,12 +13,12 @@
 ### 課程大綱
 
 - 建立你的開發環境
-- Numpy array 複習（Recap on numpy array）
-- Pandas data frame 複習（Recap on pandas data frame）
-- 快速實作（Quick start）
-- 預處理（Preprocessing）
-- 降維（Dimensionality reduction）
-- 迴歸（Regression）
-- 分群（Clustering）
-- 分類（Classification）
-- 模型選擇（Model selection）
+- [Numpy 複習](https://yaojenkuo.github.io/py_ds_advanced/ch2.slides)
+- Pandas 複習
+- Scikit-Learn 快速實作
+- 預處理
+- 降維
+- 迴歸
+- 分群
+- 分類
+- 模型選擇
