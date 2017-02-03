@@ -12,9 +12,10 @@
 
 ### 課程大綱
 
-- 建立你的開發環境
+- [建立你的開發環境](https://yaojenkuo.github.io/py_ds_basic/ch1.slides)
 - [Numpy 複習](https://yaojenkuo.github.io/py_ds_advanced/ch2.slides)
-- Pandas 複習
+- [Pandas 複習](https://yaojenkuo.github.io/py_ds_advanced/ch3.slides)
+- [DataFrame 實用技巧](https://yaojenkuo.github.io/py_ds_advanced/ch4.slides)
 - Scikit-Learn 快速實作
 - 預處理
 - 降維
