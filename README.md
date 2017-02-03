@@ -16,10 +16,11 @@
 - [Numpy 複習](https://yaojenkuo.github.io/py_ds_advanced/ch2.slides)
 - [Pandas 複習](https://yaojenkuo.github.io/py_ds_advanced/ch3.slides)
 - [DataFrame 實用技巧](https://yaojenkuo.github.io/py_ds_advanced/ch4.slides)
-- Scikit-Learn 快速實作
-- 預處理
-- 降維
-- 迴歸
-- 分群
-- 分類
-- 模型選擇
+- [Matplotlib 複習](https://yaojenkuo.github.io/py_ds_advanced/ch5.slides)
+- [Scikit-Learn 快速實作](https://yaojenkuo.github.io/py_ds_advanced/ch6.slides)
+- [預處理]()
+- [降維]()
+- [迴歸]()
+- [分群]()
+- [分類]()
+- [模型選擇]()
