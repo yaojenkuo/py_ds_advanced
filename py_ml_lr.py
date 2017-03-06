@@ -20,7 +20,7 @@ X_std = std_scaler.transform(X)
 # 切分訓練測試資料
 X_train, X_test, y_train, y_test = train_test_split(X_std, y, test_size = 0.3, random_state = 0)
 
-# 訓練感知器模型
+# 訓練模型
 lr = LogisticRegression(C = 1000.0, random_state = 0)
 lr.fit(X_train, y_train)
 
