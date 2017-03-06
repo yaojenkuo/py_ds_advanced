@@ -37,7 +37,7 @@ x2_min, x2_max = X_std[:, 1].min() - 1, X_std[:, 1].max() + 1
 xx1, xx2 = np.meshgrid(np.arange(x1_min, x1_max, 0.02), np.arange(x2_min, x2_max, 0.02))
 
 # 繪圖
-Z = ppn.predict(np.array([xx1.ravel(), xx2.ravel()]).T)
+Z = lr.predict(np.array([xx1.ravel(), xx2.ravel()]).T)
 Z = Z.reshape(xx1.shape)
 plt.contourf(xx1, xx2, Z, alpha = 0.2, cmap = color_map)
 plt.xlim(xx1.min(), xx1.max())
